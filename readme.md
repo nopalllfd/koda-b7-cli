@@ -34,4 +34,4 @@
 
 9. Menghapus folder dengan nama "latihan4.txt"
 
-- ![mkdir latihan_cli_dasar](./image/9![alt text](image.png).png)
+- ![mkdir latihan_cli_dasar](./image/9.png)
